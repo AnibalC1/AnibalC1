@@ -1,9 +1,9 @@
-### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Anibal Cabral -  [Anibal][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Full-Stack Developer
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
+- 🔭 I’m currently working on a my Sharepoint project!
+- 🌱 I’m currently learning BlockChain and Machine Learning
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play chess and listen music.
@@ -108,42 +108,6 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
-
----
-
-## 📝 Latest Blog Posts
-
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
-
-### Medium
-
-![Sabesan96's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&limit=6&theme=tokyonight)
-
-### Dev Community
-
-<!-- DEVTO:START -->
-- [How to Handle ES6 modules in Node.Js](https://dev.to/thesabesan/how-to-handle-es6-modules-in-node-js-hdn)
-- [Embed Dev.to as a blog on your React Website](https://dev.to/thesabesan/embed-dev-to-as-a-blog-on-your-react-website-3l8c)
-- [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)
-<!-- DEVTO:END -->
-
----
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-</a>
-
----
-
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
-</p>
-
----
 
 [website]: https://sabesansathananthan.now.sh
 [linkedin]: https://www.linkedin.com/in/sabesan96
